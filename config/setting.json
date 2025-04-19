@@ -1,0 +1,12 @@
+{
+    "style": "QMainWindow { background-color: #f0f0f0; }",
+    "font": {
+        "family": "Calibri",
+        "size": 12
+    },
+    "colors": {
+        "primary": "#2c3e50",
+        "secondary": "#3498db",
+        "text": "#333333"
+    }
+}
